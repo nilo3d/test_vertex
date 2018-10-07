@@ -2,7 +2,7 @@
 É preciso ter o mysql e laravel isntalado. A aplicação foi feita no laravel na sua versão mais recente (5.7.7). 
 
 #Executando o DUMP.
-Para facilitar o teste execute o DUMP. O DUMP instala o banco de dados e as tabelas já populadas.
+Para facilitar o teste execute o DUMP. O DUMP instala o banco de dados e as tabelas já populadas ele está nesse mesmo repositório como o nome: Dump20181006.sql
 
 #Testando o projeto
 Pelo prompt de comando acesse a pasta do projeto. Dentro da pasta digite o comando php artisan serve. A seguinte mensagem deve aparecer:
